@@ -1,10 +1,9 @@
 A few things about me:
-- Graduate student in Robotic Systems Development at **Carnegie Mellon University, Robotics Institute**. [:link:](https://mrsd.ri.cmu.edu/)
-- Former Software Engineer at **Microsoft**
-- Former Project Trainee in Embedded Software at **Texas Instruments**
-- Majored in Computer Science & Engineering from **Indian Institute of Technology Kharagpur**
-
-Currently focusing on perception and deep learning.
+- Interning with the Autonomy Framework team at [Aurora](https://aurora.tech/) on improving the performance of their self-driving system's onboard runtime platform.
+- Graduate student in Robotic Systems Development at [Carnegie Mellon University, Robotics Institute](https://mrsd.ri.cmu.edu/)
+- Former Software Engineer at [Microsoft](https://www.microsoft.com/)
+- Former Project Trainee in Embedded Software at [Texas Instruments](https://www.ti.com/)
+- Majored in Computer Science & Engineering from [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/)
 
 Find some of my older projects [here](https://nevalsar.github.io/#/projects)
 
