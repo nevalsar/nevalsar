@@ -1,8 +1,7 @@
-I am a Graduate student in Robotic Systems Development at [Carnegie Mellon University, Robotics Institute](https://mrsd.ri.cmu.edu/). 
-
-- Former intern with the Autonomy Framework team at [Aurora](https://aurora.tech/) where I worked on their autonomous driving platform _Aurora Driver_.
-- Former Software Engineer at [Microsoft](https://www.microsoft.com/) where I worked on Microsoft Bing Search Platform.
-- Former intern at [Texas Instruments](https://ti.com/) where I worked on wireless microcontroller driver development.
+- Completed Masters degree in Robotic Systems Development from [Carnegie Mellon University Robotics Institute](https://ri.cmu.edu/). 
+- Interned with the Autonomy Framework team at [Aurora](https://aurora.tech/) on memory optimization and inter-process communication for _Aurora Driver_ autonomous driving platform.
+- Former Software Engineer at [Microsoft](https://www.microsoft.com/) with Microsoft Bing Search Platform, AI & Research, and Enterprise Commerce.
+- Interned with [Texas Instruments](https://ti.com/) where I worked on GPS device driver development for wireless microcontrollers.
 - Majored in Computer Science & Engineering from [Indian Institute of Technology Kharagpur](http://iitkgp.ac.in/).
 
 Find some of my older projects [here](https://nevalsar.github.io/#/projects).
