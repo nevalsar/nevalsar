@@ -1,4 +1,4 @@
-I'm currently working on autonomous systems and planning for robotics.
+I'm currently working on platform engineering and planning for autonomous systems at [Gatik](https://gatik.ai/).
 
 - Completed Masters degree in Robotic Systems Development from [Carnegie Mellon University Robotics Institute](https://ri.cmu.edu/). 
 - Interned with the Autonomy Framework team at [Aurora](https://aurora.tech/) on memory optimization and inter-process communication for _Aurora Driver_ autonomous driving platform.
