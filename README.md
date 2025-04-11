@@ -1,4 +1,4 @@
-I'm currently working on platform engineering and planning for autonomous systems at [Gatik](https://gatik.ai/).
+I'm currently working on platform engineering for autonomous driving at [Gatik](https://gatik.ai/).
 
 Previously:
 - Masters in Robotics from [Carnegie Mellon University Robotics Institute](https://ri.cmu.edu/). 
@@ -8,7 +8,5 @@ Previously:
 - Majored in Computer Science & Engineering from [Indian Institute of Technology Kharagpur](http://iitkgp.ac.in/).
 
 Find some of my older projects [here](https://nevalsar.github.io/#/projects). 
-
-I occasionally blog about my Linux experiments [here](https://nevalsar.hashnode.dev).
 
 <a href="https://linkedin.com/in/nevinvalsaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nevinvalsaraj" height="22.5" width="30" /></a>
