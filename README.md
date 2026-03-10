@@ -1,10 +1,10 @@
 I'm currently working on platform engineering for autonomous driving at [Gatik](https://gatik.ai/).
 
 Previously:
-- Masters in Robotics from [Carnegie Mellon University Robotics Institute](https://ri.cmu.edu/). 
-- Interned with [Aurora](https://aurora.tech/) on memory optimization and inter-process communication for _Aurora Driver_ autonomous driving platform.
 - Worked on Microsoft Bing Search Platform, AI & Research, and Enterprise Commerce at [Microsoft](https://www.microsoft.com/).
+- Spent a Summer with [Aurora](https://aurora.tech/) working on memory optimization and inter-process communication for _Aurora Driver_ autonomous driving platform.
 - Interned with [Texas Instruments](https://ti.com/) on GPS device driver development and wireless microcontroller platforms.
+- Masters in Robotics from [Carnegie Mellon University Robotics Institute](https://ri.cmu.edu/). 
 - Majored in Computer Science & Engineering from [Indian Institute of Technology Kharagpur](http://iitkgp.ac.in/).
 
 Find some of my older projects [here](https://nevalsar.github.io/#/projects). 
