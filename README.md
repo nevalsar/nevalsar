@@ -1,4 +1,4 @@
-I'm currently working on [platform engineering for autonomous vehicles at Nvidia](https://www.nvidia.com/en-us/solutions/autonomous-vehicles/).
+I'm currently working on autonomous vehicle platform at [Nvidia](https://www.nvidia.com/en-us/solutions/autonomous-vehicles/).
 
 Previously:
 - Worked on platform engineering for autonomous trucking at [Gatik](https://gatik.ai/)
@@ -8,6 +8,6 @@ Previously:
 - Masters in Robotics from [Carnegie Mellon University Robotics Institute](https://ri.cmu.edu/). 
 - Majored in Computer Science & Engineering from [Indian Institute of Technology Kharagpur](http://iitkgp.ac.in/).
 
-Find some of my older projects [here](https://nevalsar.github.io/#/projects). 
+Find some of my older projects [here](https://nevalsar.github.io/#/projects).
 
 <a href="https://linkedin.com/in/nevinvalsaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nevinvalsaraj" height="22.5" width="30" /></a>
