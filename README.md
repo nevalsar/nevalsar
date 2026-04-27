@@ -1,5 +1,3 @@
-# Nevin Valsaraj
-
 > I write code that help heavy metal boxes drive themselves.
 
 Currently building the autonomous vehicle platform at [Nvidia](https://www.nvidia.com/en-us/solutions/autonomous-vehicles/).
